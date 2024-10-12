@@ -1,0 +1,32 @@
+name: Scrape Wordle Answers
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allow manual runs
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run scraper
+        run: python scrape.py
+
+      - name: Commit and push updates
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add wordle_word_list.json
+          git commit -m "Updated word list"
+          git push
