@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 17",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 18",
+        "puzzle_number": "1217",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tstint"
+    },
+    {
+        "date": "Oct. 17",
         "puzzle_number": "1216",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\thalve"
+        "word": "halve"
     },
     {
         "date": "Oct. 16",
