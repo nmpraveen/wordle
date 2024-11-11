@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 10",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 11",
+        "puzzle_number": "1241",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tstoic"
+    },
+    {
+        "date": "Nov. 10",
         "puzzle_number": "1240",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tinner"
+        "word": "inner"
     },
     {
         "date": "Nov. 09",
