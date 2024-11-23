@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 22",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 23",
+        "puzzle_number": "1253",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tjelly"
+    },
+    {
+        "date": "Nov. 22",
         "puzzle_number": "1252",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tpearl"
+        "word": "pearl"
     },
     {
         "date": "Nov. 21",
