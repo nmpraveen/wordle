@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDec. 12",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDec. 13",
+        "puzzle_number": "1273",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tboxer"
+    },
+    {
+        "date": "Dec. 12",
         "puzzle_number": "1272",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tvying"
+        "word": "vying"
     },
     {
         "date": "Dec. 11",
