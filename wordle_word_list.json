@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDec. 21",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDec. 22",
+        "puzzle_number": "1282",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tbrawn"
+    },
+    {
+        "date": "Dec. 21",
         "puzzle_number": "1281",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tblade"
+        "word": "blade"
     },
     {
         "date": "Dec. 20",
