@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 28",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 29",
+        "puzzle_number": "1320",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tudder"
+    },
+    {
+        "date": "Jan. 28",
         "puzzle_number": "1319",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tfever"
+        "word": "fever"
     },
     {
         "date": "Jan. 27",
