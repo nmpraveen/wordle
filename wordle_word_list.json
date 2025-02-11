@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 10",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 11",
+        "puzzle_number": "1333",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tscore"
+    },
+    {
+        "date": "Feb. 10",
         "puzzle_number": "1332",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tgoody"
+        "word": "goody"
     },
     {
         "date": "Feb. 09",
