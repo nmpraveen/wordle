@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 20",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 21",
+        "puzzle_number": "1343",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tclove"
+    },
+    {
+        "date": "Feb. 20",
         "puzzle_number": "1342",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\troach"
+        "word": "roach"
     },
     {
         "date": "Feb. 19",
