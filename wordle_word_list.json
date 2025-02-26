@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 25",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 26",
+        "puzzle_number": "1348",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\taward"
+    },
+    {
+        "date": "Feb. 25",
         "puzzle_number": "1347",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tdryer"
+        "word": "dryer"
     },
     {
         "date": "Feb. 24",
