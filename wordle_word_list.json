@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tApr. 26",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tApr. 27",
+        "puzzle_number": "1408",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tweedy"
+    },
+    {
+        "date": "Apr. 26",
         "puzzle_number": "1407",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tclash"
+        "word": "clash"
     },
     {
         "date": "Apr. 25",
