@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tApr. 27",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tApr. 28",
+        "puzzle_number": "1409",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tdummy"
+    },
+    {
+        "date": "Apr. 27",
         "puzzle_number": "1408",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tweedy"
+        "word": "weedy"
     },
     {
         "date": "Apr. 26",
