@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tApr. 30",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMay. 01",
+        "puzzle_number": "1412",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tadept"
+    },
+    {
+        "date": "Apr. 30",
         "puzzle_number": "1411",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tidler"
+        "word": "idler"
     },
     {
         "date": "Apr. 29",
