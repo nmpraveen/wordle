@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJun. 18",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJun. 19",
+        "puzzle_number": "1461",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tcurio"
+    },
+    {
+        "date": "Jun. 18",
         "puzzle_number": "1460",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tmunch"
+        "word": "munch"
     },
     {
         "date": "Jun. 17",
