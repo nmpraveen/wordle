@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJul. 26",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJul. 27",
+        "puzzle_number": "1499",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\twhole"
+    },
+    {
+        "date": "Jul. 26",
         "puzzle_number": "1498",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\thaunt"
+        "word": "haunt"
     },
     {
         "date": "Jul. 25",
