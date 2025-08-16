@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAug. 15",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAug. 16",
+        "puzzle_number": "1519",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tmatte"
+    },
+    {
+        "date": "Aug. 15",
         "puzzle_number": "1518",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tlevel"
+        "word": "level"
     },
     {
         "date": "Aug. 14",
