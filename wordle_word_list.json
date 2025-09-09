@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSep. 08",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSep. 09",
+        "puzzle_number": "1543",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\ttrick"
+    },
+    {
+        "date": "Sep. 08",
         "puzzle_number": "1542",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tchirp"
+        "word": "chirp"
     },
     {
         "date": "Sep. 07",
