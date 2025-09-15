@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSep. 14",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSep. 15",
+        "puzzle_number": "1549",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\talong"
+    },
+    {
+        "date": "Sep. 14",
         "puzzle_number": "1548",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tnoisy"
+        "word": "noisy"
     },
     {
         "date": "Sep. 13",
