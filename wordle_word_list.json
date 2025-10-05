@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 04",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 05",
+        "puzzle_number": "1569",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tplane"
+    },
+    {
+        "date": "Oct. 04",
         "puzzle_number": "1568",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\trelay"
+        "word": "relay"
     },
     {
         "date": "Oct. 03",
