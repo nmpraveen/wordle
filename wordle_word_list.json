@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 11",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 12",
+        "puzzle_number": "1576",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\twound"
+    },
+    {
+        "date": "Oct. 11",
         "puzzle_number": "1575",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tstack"
+        "word": "stack"
     },
     {
         "date": "Oct. 10",
