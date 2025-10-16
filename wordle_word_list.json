@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 15",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tOct. 16",
+        "puzzle_number": "1580",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tcatty"
+    },
+    {
+        "date": "Oct. 15",
         "puzzle_number": "1579",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tspoof"
+        "word": "spoof"
     },
     {
         "date": "Oct. 14",
