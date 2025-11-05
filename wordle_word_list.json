@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 04",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 05",
+        "puzzle_number": "1600",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tshort"
+    },
+    {
+        "date": "Nov. 04",
         "puzzle_number": "1599",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tvenue"
+        "word": "venue"
     },
     {
         "date": "Nov. 03",
