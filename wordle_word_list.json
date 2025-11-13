@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 12",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNov. 13",
+        "puzzle_number": "1608",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\ttinge"
+    },
+    {
+        "date": "Nov. 12",
         "puzzle_number": "1607",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tdeuce"
+        "word": "deuce"
     },
     {
         "date": "Nov. 11",
