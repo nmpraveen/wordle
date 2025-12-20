@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDec. 19",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDec. 20",
+        "puzzle_number": "1645",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\twhite"
+    },
+    {
+        "date": "Dec. 19",
         "puzzle_number": "1644",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tmyrrh"
+        "word": "myrrh"
     },
     {
         "date": "Dec. 18",
