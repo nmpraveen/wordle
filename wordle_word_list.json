@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 13",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 14",
+        "puzzle_number": "1670",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tavoid"
+    },
+    {
+        "date": "Jan. 13",
         "puzzle_number": "1669",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tgumbo"
+        "word": "gumbo"
     },
     {
         "date": "Jan. 12",
