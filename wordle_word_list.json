@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 24",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 25",
+        "puzzle_number": "1681",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tstrut"
+    },
+    {
+        "date": "Jan. 24",
         "puzzle_number": "1680",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tcliff"
+        "word": "cliff"
     },
     {
         "date": "Jan. 23",
