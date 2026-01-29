@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 28",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJan. 29",
+        "puzzle_number": "1685",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tflaky"
+    },
+    {
+        "date": "Jan. 28",
         "puzzle_number": "1684",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tcruel"
+        "word": "cruel"
     },
     {
         "date": "Jan. 27",
