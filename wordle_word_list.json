@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 25",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFeb. 26",
+        "puzzle_number": "1713",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tlance"
+    },
+    {
+        "date": "Feb. 25",
         "puzzle_number": "1712",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tshred"
+        "word": "shred"
     },
     {
         "date": "Feb. 24",
