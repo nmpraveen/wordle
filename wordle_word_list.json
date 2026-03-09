@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 08",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 09",
+        "puzzle_number": "1724",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\thasty"
+    },
+    {
+        "date": "Mar. 08",
         "puzzle_number": "1723",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tlobby"
+        "word": "lobby"
     },
     {
         "date": "Mar. 07",
