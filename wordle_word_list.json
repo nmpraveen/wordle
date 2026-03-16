@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 15",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 16",
+        "puzzle_number": "1731",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tdrama"
+    },
+    {
+        "date": "Mar. 15",
         "puzzle_number": "1730",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tgrade"
+        "word": "grade"
     },
     {
         "date": "Mar. 14",
