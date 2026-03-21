@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 20",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 21",
+        "puzzle_number": "1736",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tslick"
+    },
+    {
+        "date": "Mar. 20",
         "puzzle_number": "1735",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\toasis"
+        "word": "oasis"
     },
     {
         "date": "Mar. 19",
