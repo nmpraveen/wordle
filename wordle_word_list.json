@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 24",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMar. 25",
+        "puzzle_number": "1740",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\twiser"
+    },
+    {
+        "date": "Mar. 24",
         "puzzle_number": "1739",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tbrood"
+        "word": "brood"
     },
     {
         "date": "Mar. 23",
