@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tApr. 14",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tApr. 15",
+        "puzzle_number": "1761",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tbegun"
+    },
+    {
+        "date": "Apr. 14",
         "puzzle_number": "1760",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tcycle"
+        "word": "cycle"
     },
     {
         "date": "Apr. 13",
