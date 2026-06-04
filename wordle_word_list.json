@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJun. 03",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJun. 04",
+        "puzzle_number": "1811",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\talloy"
+    },
+    {
+        "date": "Jun. 03",
         "puzzle_number": "1810",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tnotch"
+        "word": "notch"
     },
     {
         "date": "Jun. 02",
