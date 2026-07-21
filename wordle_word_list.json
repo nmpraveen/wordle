@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJul. 20",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJul. 21",
+        "puzzle_number": "1858",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tshill"
+    },
+    {
+        "date": "Jul. 20",
         "puzzle_number": "1857",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tdiver"
+        "word": "diver"
     },
     {
         "date": "Jul. 19",
