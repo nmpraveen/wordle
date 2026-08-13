@@ -1,8 +1,13 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAug. 12",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAug. 13",
+        "puzzle_number": "1881",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tcrash"
+    },
+    {
+        "date": "Aug. 12",
         "puzzle_number": "1880",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\twimpy"
+        "word": "wimpy"
     },
     {
         "date": "Aug. 11",
