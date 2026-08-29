@@ -1,8 +1,18 @@
 [
     {
-        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAug. 27",
+        "date": "Today\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAug. 29",
+        "puzzle_number": "1897",
+        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tblood"
+    },
+    {
+        "date": "Aug. 28",
+        "puzzle_number": "1896",
+        "word": "tween"
+    },
+    {
+        "date": "Aug. 27",
         "puzzle_number": "1895",
-        "word": "reveal\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tuncut"
+        "word": "uncut"
     },
     {
         "date": "Aug. 26",
