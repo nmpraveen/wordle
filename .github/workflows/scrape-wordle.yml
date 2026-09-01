@@ -2,7 +2,7 @@ name: Scrape Wordle Answers
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '30 5 * * *'  # Runs after midnight in New York year-round
   workflow_dispatch:  # Allow manual runs
 
 jobs:
@@ -19,6 +19,9 @@ jobs:
       
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m unittest discover -v
       
       - name: Run scraper
         run: python scrape.py
@@ -27,9 +30,12 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          if git diff --quiet -- wordle_word_list.json; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git add wordle_word_list.json
-          git commit -m "Updated word list" || echo "No changes to commit"
-          git push origin main || echo "Push failed"
+          git commit -m "Updated word list"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
