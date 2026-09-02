@@ -1,6 +1,11 @@
 [
     {
-        "date": "Today Sep. 01",
+        "date": "Today Sep. 02",
+        "puzzle_number": "1901",
+        "word": "ruler"
+    },
+    {
+        "date": "Sep. 01",
         "puzzle_number": "1900",
         "word": "remix"
     },
