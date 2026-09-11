@@ -1,6 +1,16 @@
 [
     {
-        "date": "Today Sep. 09",
+        "date": "Today Sep. 11",
+        "puzzle_number": "1910",
+        "word": "aster"
+    },
+    {
+        "date": "Sep. 10",
+        "puzzle_number": "1909",
+        "word": "dryly"
+    },
+    {
+        "date": "Sep. 09",
         "puzzle_number": "1908",
         "word": "burst"
     },
