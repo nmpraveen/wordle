@@ -1,41 +1,83 @@
-name: Scrape Wordle Answers
+name: Collect Wordle Answers
 
 on:
   schedule:
-    - cron: '30 5 * * *'  # Runs after midnight in New York year-round
-  workflow_dispatch:  # Allow manual runs
+    - cron: '30 5 * * *'  # After midnight in New York year-round
+    - cron: '30 11 * * *'  # Catch up if the first attempt failed
+  workflow_dispatch:
+    inputs:
+      verify_source:
+        description: 'Verify NYT JSON without changing or publishing history'
+        type: boolean
+        default: false
+  pull_request:
+    branches: [main]
+    paths:
+      - 'scrape.py'
+      - 'test_scrape.py'
+      - 'requirements.txt'
+      - '.github/workflows/scrape-wordle.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'scrape.py'
+      - 'test_scrape.py'
+      - 'requirements.txt'
+      - '.github/workflows/scrape-wordle.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: wordle-history
+  cancel-in-progress: false
 
 jobs:
-  scrape:
+  test:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v7
-
-      - name: Set up Python
-        uses: actions/setup-python@v7
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
-          python-version: '3.x'
-      
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -v
 
-      - name: Run tests
-        run: python -m unittest discover -v
-      
-      - name: Run scraper
-        run: python scrape.py
-        
+  collect:
+    needs: test
+    if: >-
+      (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') &&
+      (github.ref == 'refs/heads/main' || inputs.verify_source)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Collect or verify NYT puzzles
+        env:
+          VERIFY_SOURCE: ${{ inputs.verify_source || false }}
+        run: |
+          if [ "$VERIFY_SOURCE" = "true" ]; then
+            python scrape.py --verify-source
+            git diff --exit-code -- wordle_word_list.json
+          else
+            python scrape.py
+          fi
       - name: Commit and push updates
+        if: github.ref == 'refs/heads/main' && !inputs.verify_source
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           if git diff --quiet -- wordle_word_list.json; then
-            echo "No changes to commit"
+            echo "History already current; no changes to commit"
             exit 0
           fi
           git add wordle_word_list.json
-          git commit -m "Updated word list"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "Update Wordle history from NYT daily JSON"
+          git push origin HEAD:main
